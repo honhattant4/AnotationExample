@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Anotation</string>
+    //MainActivity
+    <string name="main_button_start">Start ExtrasActivity</string>
+    //DemoLinearLayout
+    <string name="tab1">Tab 1</string>
+    <string name="tab2">Tab 2</string>
+    <string name="tab3">Tab 3</string>
+    <string name="tab4">Tab 4</string>
 </resources>

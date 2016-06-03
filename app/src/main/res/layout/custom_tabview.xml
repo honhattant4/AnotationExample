@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="horizontal"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    android:weightSum="4">
+
+    <Button
+        android:id="@+id/btnTab1"
+        style="@style/ButtonTab"
+        android:text="@string/tab1" />
+
+    <Button
+        android:id="@+id/btnTab2"
+        style="@style/ButtonTab"
+        android:text="@string/tab2" />
+
+    <Button
+        android:id="@+id/btnTab3"
+        style="@style/ButtonTab"
+        android:text="@string/tab3" />
+
+    <Button
+        android:id="@+id/btnTab4"
+        style="@style/ButtonTab"
+        android:text="@string/tab4" />
+</LinearLayout>
